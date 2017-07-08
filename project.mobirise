@@ -1,0 +1,914 @@
+{
+  "settings": {
+    "currentPage": "revival.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 42,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">主页</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-0\" data-toolbar=\"-mbrBtnMove\">简介与研究脉络</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-f\" data-toolbar=\"-mbrBtnMove\">研究方法与目的</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"start.html\" data-toolbar=\"-mbrBtnMove\">华乐在新加坡的起步</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"fall.html\" data-toolbar=\"-mbrBtnMove\">衰落时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"revival.html\" data-toolbar=\"-mbrBtnMove\">重生及稳定,增长时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">21世纪-适应新潮并进一步发展</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">实地考察</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">发展前景</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">时间线</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">关于我们</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">参考资料与致谢</a> "
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/chineseorchestra-1920x1080-2000x1125.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">新加坡华乐的发展</span>",
+          "text": "6-61<br>Kester Low Le En | Lim Wan Xuan | Jiang Chen Xiang| Kong Teng Sing<br>卢乐恩 | 林万轩 | 江宸翔&nbsp;| 邝鼎圣",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "研究方法与目的",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "研究方法",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<ul><li>通过实地考察如到华乐团表演或采访专家</li><li>采访<span style=\"font-size: 1.07rem; line-height: 1.5;\">专业人士如新加坡华乐团音乐家等</span></li><li>到相关的场所和活动来收集资料</li><li>在网上搜查资料以探讨中华音乐在新加坡的发展</li></ul><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "研究目的",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<ul><li>提高中小学生对新加坡中华音乐的文化与历史了解</li><li>同时也帮助中小学生对于自己种族的传统音乐文化产生兴趣</li><li>散播华乐与华族文化</li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "内容简介与研究脉络",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "内容简介",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<ul><li>探讨华乐从60年代到今日的新加坡有着什么样的发展与演化</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">探讨外部因素如政府的推动与辅助对于华乐团的发展有什么样的影响</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">探讨新加坡华乐对新加坡社会及文化散播的影响</span></li></ul><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "研究脉络",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "LI": {
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<h4><b>华乐在新加坡的起步</b></h4><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">首几个华乐团的创立</span></p><p></p><ol></ol><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">华乐在华族社区的地位</span><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><h4><b>衰落时期</b></h4><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华乐遇到的困难</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">社会对华乐的看法/华乐在新加坡的地位</span><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">衰落时期对于华乐在新加坡的发展的影响</span><br></div><div><br></div><h4>重生阶段以及稳定与增长时期</h4><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;政府推动与辅助</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">华乐在社会上的地位</span><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">专业华乐团的建立</span><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">新加坡广播局的帮助</span></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;外来的专业音乐家所带给新加坡华乐的影响</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">新加坡开始快速数码化</span></div><div><br></div><h4>21世纪-适应新潮并进一步发展</h4><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;政府推动</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">华乐在社会上的地位</span><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通讯及新闻部的各种津贴和奖学金</div><div><br></div>"
+        }
+      ]
+    },
+    "start.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "Website Builder Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "华乐在新加坡的起步",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<h4>首几个华族音乐协会的创立</h4><div><font color=\"#000000\">虽然很多人都争议华乐只有在人民音乐协会华乐团创立时才有了起步，华乐的起步其实就已经在二十到五十年代的几个民间小乐团的创立之下就开始了。</font></div><blockquote><font color=\"#000000\">“新加坡华乐的发展基本是从几个民间乐团开始的，比较有名的有陶 融、爱同、康乐。当时华乐界里较活跃的人士有李雪岭、连荣史、张正荃，可说是重要奠基人。”&nbsp;</font></blockquote><blockquote><font color=\"#000000\">著有《新加坡华乐发展史略》一书的琵琶 演奏家吴奕明</font></blockquote><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\">在英国殖民政府管制新加坡的时候，很多在新加坡的华族都利用了民间华族音乐来保留自己的中国传统文化和进一步地加强华族社区的凝聚力。由于新加坡当时的华人都是从中国各地的地区来的，许多在新加坡的华人都创立许多氏族协会来代表不同中国地区的文化与方言。这些氏族协会给来自中国的新移民提供了精神上与金钱上的支持但最重要的是，这些氏族协会也帮助了在新加坡居住的华人保留自己的文化来确保他们没忘掉自己的根和确保自己能与中国的同胞保持良好的距离。这些人民协会就给华族音乐提供了一个平台在新加坡起步与发展。当时的华族社区都会在举办宗教活动如婚礼，葬礼和农历七月活动之类的才会请华族音乐家来娱乐到场的嘉宾与观众。在这段时期，有很多氏族协会都会自己创立起民间华乐团来为了保留自己的中国文化，也为了提供给华族社区一点娱乐。许多从中国移民到新加坡的华族音乐家就给新加坡华族音乐的发展带来了许多贡献，如把在中国自己的省份的音乐风格合并在新加坡的民间华乐团里，使新加坡的华族音乐更有特色与风采。</font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\">在1912年创办的余裕孺乐社是新加坡首个华乐团也是新加坡最悠久的业余华乐团，他们专门于来自中国南方的传统民间音乐，也时常在传统的华族音乐剧演奏。其中的一名音乐家，李业奇也给新加坡的华族音乐的发展带来许多的发展。她栽培了许多学生，其中的有些还成为了有名与对新加坡华乐有巨大贡献的音乐家。</font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\">在1939年, 一名会弹多乐器的音乐家，仁广昌先生创立了铜锣音乐协会。这家华乐团演奏的风格和余裕孺乐社是相当的不同。他们的演奏风格是偏向于当初在中国大陆大多数的华乐团的演奏风格。就如在中国的音乐家一样，他们的成员也一直地尝试出不同的乐器搭配，一直在创新，希望能制造出更有味道，更加独特的音乐风格。就这样，他们大大地提高了新加坡的华乐水平。由于当时中国正进入了第二个中日战争，因此为了向中国表达出他们的爱国精神与支持，铜锣音乐会当时写作与演奏的歌曲大多数是军歌。音乐会也用了表演活动来在战争中支持中国，如利用演奏来为中国筹款或激励华人的爱国精神。因为这样，他们也提高了华乐当时在新加坡社会的地位因为他们不只让新加坡人感觉到华乐对社会是有贡献的，他们也让更多新加坡华人认识与接触到华乐，让新加坡华人知道所有人都能享受到华乐而不只是有钱人。</font></div><div><font color=\"#000000\"><br></font></div><h4><font color=\"#000000\">华乐当时在新加坡社会的地位和华乐遇到的困难</font></h4><div><span style=\"color: rgb(0, 0, 0); font-size: 1.07rem; line-height: 1.5;\">正华乐在新加坡崛起的时候，第二世界大战大大地缓慢华乐在新加坡的发展，甚至还因为日本在新加坡的控制而使华乐在新加坡的发展退后一步。世界大战后，很多华乐团都尝试再次地重新组织起来，但由于战争对新加坡的毁灭，音乐家必须使用低素质的乐器来制作音乐。当时的音乐家在白天时都有自己的不同工作而不是专业的音乐家。他们会在有空的时候在这些音乐协会预约来一起玩音乐。当时，新加坡的民间华乐音乐家都遇到了一个大问题：乐器数量不够，质量不好。这是因为在第二世界大战后新加坡只剩了一名制琴家，根本无法在短时间内制作出好乐器给音乐家用。之后，在后半期的五十年代，音乐公司如德兴公司为了解决这个问题并且从中国大陆进口了华乐乐器提供给本地的音乐协会。</span></div><div><br></div><div><font color=\"#000000\">日本在第二世界大战投降后，英国也回来继续统治新加坡。但是，由于英国在大战时没有顾虑到本地人，让日本对本地人为所欲为的关系，当时在新加坡的华人都对英国殖民政府非常不满。因此为了反对英国殖民政府的统治和西洋化政策，许多在新加坡的华族商人都创办了许多华校来保存华式的教育系统。在这些华校里，老师们也都积极地向学生教学华族音乐和艺术文化来保存他们的传统华族文化。因此，由于英国殖民政府的西洋化政策，传统华族音乐在新加坡社会的地位与影响力也提高了。</font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\"><br></font></div><p><br></p>"
+        }
+      ]
+    },
+    "fall.html": {
+      "settings": {
+        "title": "Site Creator Title",
+        "meta_descr": "Site Creator Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title FONT": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<font color=\"#000000\">衰落时期</font>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-z",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pasted-image-0-2000x1333.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "新加坡第一个中国式的华乐团",
+          "text": "直到1959年时，新加坡的华乐音乐家都只组成小小的民间音乐合奏团，并没有一个正式中国风格的大华乐团。但，在1959年时，陶融儒乐社创立了新加坡首歌大型华乐团。它是首个共有弹拨乐，管乐，打击乐和拉弓乐器一起组成的华乐合奏团，它也和当时在中国的华乐团的风格和格式最有相似的华乐团",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"taorong.html\" data-toolbar=\"-mbrBtnMove\">更多<br></a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "",
+          "text2": ""
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        }
+      ]
+    },
+    "revival.html": {
+      "settings": {
+        "title": "重生",
+        "meta_descr": "Web Site Builder Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "重生阶段以及稳定与增长时期",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-14",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title1": "政府推动与辅助",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br><br>            政府推动与辅助<br>            华乐在社会上的地位<br>            专业华乐团的建立<br>            新加坡广播局的帮助<br>            外来的专业音乐家所带给新加坡华乐的影响<br>            新加坡开始快速数码化<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title2": "华乐在社会上的地位",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title3": "专业华乐团的建立",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "新加坡广播局的帮助",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "外来专业音乐家的影响",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "新加坡开始快速数码化",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-15",
+          "_params": {
+            "imageSize": "33",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ntco-poster-1400x2050.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "政府推动与辅助",
+          "text": "<b>设立中央文化局华乐队及国家剧场华乐团</b><br><br>在文化部国务部长李烔才的鼓励下，中央文化局华乐队成立于1960年，并且开始在不少正式的活动表演，使更多在新加坡里社会阶层排名较高的人认识到新加坡的华族传统音乐。许多乐团成员后来被转移到政府资助的国家剧场华乐团。国家剧场华乐团也招聘了不少有才华的外国音乐家如郑思森和吴泰孔，使华乐团的水平大幅度提高，从而使这种具有民族特色的流派更加突出。为了集合新加坡里日益增长的华乐人才而设立的国家剧场华乐团，不只发掘了不少人才，还让更多的人民有机会接触到华乐及华族传统音乐，可说是对新加坡华乐的发展有巨大的影响。<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<p>政府推动与辅助</p><p><br></p>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        }
+      ]
+    },
+    "taorong.html": {
+      "settings": {
+        "title": "陶融",
+        "meta_descr": "Web Site Builder Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "陶融儒乐社",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"fall.html\" data-toolbar=\"-mbrBtnMove\">衰落时期</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#8a8a8a"
+          },
+          "text": "<p>有了从中国跟香港的华乐团走私进来的音乐录音和乐谱，陶融儒乐社就这样照着这些录音和列在乐谱里的仪器仪表重新组成华乐团。共有四十七的陶融儒乐社华乐团也是当时在新加坡最大的华族音乐合奏团。陶融儒乐社当时能创办这么大规模的华乐团也都是亏两名音乐家的功劳与赞助。这两名音乐家分别是杨浩然和胡惠成,一名华乐团的会员和一名对华族和西洋音乐都有学问的音乐家。</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>华乐团的成员杨浩然大大地在金钱上的方面赞助了华乐团，他对华乐团的捐赠帮助了华乐团购买更多高素质的乐器，也帮助了华乐团有足够的资金来继续维持。另一方面，音乐家胡惠成利用了自己对华族音乐的学问与知识来发展华乐团的音乐素质与水平。除了当指挥家之外，他也帮忙教导华乐团的成员，把自己的只是传送给他们，他也帮了华乐团写音乐谱好让他们能够更好地进行演出与练习。这两位人物也就大大地提高了陶融儒乐社的音乐水平。</p>",
+          "text2": "<p>华乐团的成员杨浩然大大地在金钱上的方面赞助了华乐团，他对华乐团的捐赠帮助了华乐团购买更多高素质的乐器，也帮助了华乐团有足够的资金来继续维持。另一方面，音乐家胡惠成利用了自己对华族音乐的学问与知识来发展华乐团的音乐素质与水平。除了当指挥家之外，他也帮忙教导华乐团的成员，把自己的只是传送给他们，他也帮了华乐团写音乐谱好让他们能够更好地进行演出与练习。这两位人物也就大大地提高了陶融儒乐社的音乐水平。</p>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        }
+      ]
+    }
+  }
+}
