@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "revival.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -692,7 +692,7 @@
           },
           "title": "缺乏足够资源的问题",
           "text": "在1949年，中国共产党正式成为了中国的政府，中国也便正式地成为了中华人民共和国。因此，中国就把自己和别的国家隔离，跟新加坡也就没有进行很多交易或有什么接触。很多本地的华族音乐家也就无法从中国获得关于华族音乐的乐谱和文学，导致很多本地华族音乐家对华族音乐的认识较少，也导致想学华族音乐的人不能把乐器的技术学好。为了避免合奏团解散，华族音乐合奏团的成员都会在面临困难时找对方来帮忙。因此，在五十年代的华族音乐家都很团结，把彼此当成朋友，在有困难时就会依靠着彼此。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"taorong.html\" data-toolbar=\"-mbrBtnMove\">更多<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"lack.html\" data-toolbar=\"-mbrBtnMove\">更多<br></a>"
         },
         {
           "_name": "footer1",
