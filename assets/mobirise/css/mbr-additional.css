@@ -470,8 +470,37 @@ h6,
 #msg-box8-l p {
   color: #fff;
 }
+#msg-box8-l .btn {
+  font-size: 15px;
+}
+#buttons1-1k .btn {
+  font-size: 15px;
+}
+#msg-box3-1u .mbr-section-title,
+#msg-box3-1u p {
+  color: #000;
+}
+#msg-box3-1u .lead P {
+  font-size: 20px;
+}
+#msg-box3-1u .lead BLOCKQUOTE {
+  text-align: left;
+}
+#msg-box3-1u .btn {
+  font-size: 15px;
+}
+#msg-box8-1w .mbr-section-title,
+#msg-box8-1w p {
+  color: #fff;
+}
 #content1-m UL {
   color: #000000;
+}
+#content1-m H4 {
+  font-size: 20px;
+}
+#content1-m DIV {
+  font-size: 20px;
 }
 #msg-box8-o .mbr-section-title,
 #msg-box8-o p {
@@ -480,8 +509,26 @@ h6,
 #msg-box8-o .mbr-section-title FONT {
   color: #ffffff;
 }
+#msg-box8-o .btn {
+  font-size: 15px;
+}
 #msg-box5-z H3 {
   font-size: 36px;
+}
+#msg-box5-z P {
+  font-size: 20px;
+}
+#msg-box5-z .btn {
+  font-size: 15px;
+}
+#msg-box5-1b H3 {
+  font-size: 36px;
+}
+#msg-box5-1b P {
+  font-size: 20px;
+}
+#msg-box5-1b .btn {
+  font-size: 15px;
 }
 #msg-box8-s .mbr-section-title,
 #msg-box8-s p {
@@ -497,16 +544,88 @@ h6,
 #msg-box5-15 P {
   font-size: 20px;
 }
-#content1-t UL {
-  color: #ffffff;
+#msg-box5-18 P {
+  font-size: 20px;
+}
+#msg-box5-19 P {
+  font-size: 20px;
 }
 #msg-box8-v .mbr-section-title,
 #msg-box8-v p {
   color: #fff;
 }
-#content1-x UL {
-  color: #ffffff;
+#msg-box8-v .btn {
+  font-size: 15px;
 }
-#content1-x P {
+#msg-box3-1g .mbr-section-title,
+#msg-box3-1g p {
+  color: #000;
+}
+#msg-box3-1g .lead P {
+  font-size: 20px;
+}
+#msg-box3-1g .lead BLOCKQUOTE {
+  text-align: left;
+}
+#msg-box3-1g .btn {
+  font-size: 15px;
+}
+#msg-box5-1h P {
+  font-size: 20px;
+}
+#msg-box5-1i P {
+  font-size: 20px;
+}
+#msg-box5-1i H3 {
+  font-size: 48px;
+}
+#msg-box3-1e .mbr-section-title,
+#msg-box3-1e p {
+  color: #000;
+}
+#msg-box3-1e .lead P {
+  font-size: 20px;
+}
+#msg-box3-1e .btn {
+  font-size: 15px;
+}
+#msg-box8-1o .mbr-section-title,
+#msg-box8-1o p {
+  color: #fff;
+}
+#msg-box8-1o .btn {
+  font-size: 15px;
+}
+#features3-1n .btn {
+  font-size: 15px;
+}
+#msg-box5-1p P {
+  font-size: 20px;
+}
+#msg-box5-1p H3 {
+  font-size: 48px;
+}
+#msg-box5-1q P {
+  font-size: 20px;
+}
+#msg-box5-1q H3 {
+  font-size: 48px;
+}
+#msg-box5-1r P {
+  font-size: 20px;
+}
+#msg-box5-1r H3 {
+  font-size: 48px;
+}
+#msg-box5-1s P {
+  font-size: 20px;
+}
+#msg-box5-1s H3 {
+  font-size: 48px;
+}
+#buttons1-20 .btn {
+  font-size: 15px;
+}
+#slider-1z FONT {
   color: #ffffff;
 }
