@@ -493,14 +493,8 @@ h6,
 #msg-box8-1w p {
   color: #fff;
 }
-#content1-m UL {
-  color: #000000;
-}
-#content1-m H4 {
-  font-size: 20px;
-}
-#content1-m DIV {
-  font-size: 20px;
+#msg-box8-1w .btn {
+  font-size: 15px;
 }
 #msg-box8-o .mbr-section-title,
 #msg-box8-o p {
@@ -533,6 +527,9 @@ h6,
 #msg-box8-s .mbr-section-title,
 #msg-box8-s p {
   color: #fff;
+}
+#msg-box8-s .btn {
+  font-size: 15px;
 }
 #features7-14 .card-subtitle {
   color: #bcbcbc;
@@ -628,4 +625,44 @@ h6,
 }
 #slider-1z FONT {
   color: #ffffff;
+}
+#msg-box8-24 .mbr-section-title,
+#msg-box8-24 p {
+  color: #fff;
+}
+#msg-box8-24 .btn {
+  font-size: 15px;
+}
+#header2-22 .mbr-section-text {
+  font-size: 20px;
+}
+#msg-box5-25 P {
+  font-size: 20px;
+}
+#msg-box5-25 H3 {
+  font-size: 48px;
+}
+#content5-23 .mbr-section-title,
+#content5-23 p {
+  color: #fff;
+}
+#content5-23 P {
+  font-size: 20px;
+}
+#msg-box8-29 .mbr-section-title,
+#msg-box8-29 p {
+  color: #fff;
+}
+#msg-box8-29 .btn {
+  font-size: 15px;
+}
+#msg-box5-28 .btn {
+  font-size: 15px;
+}
+#msg-box8-2b .mbr-section-title,
+#msg-box8-2b p {
+  color: #fff;
+}
+#msg-box8-2b .btn {
+  font-size: 15px;
 }

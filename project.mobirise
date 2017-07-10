@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "revival.html",
+    "currentPage": "concert.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 85,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -53,7 +53,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">主页</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-0\" data-toolbar=\"-mbrBtnMove\">简介与研究脉络</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-f\" data-toolbar=\"-mbrBtnMove\">研究方法与目的</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"start.html\" data-toolbar=\"-mbrBtnMove\">华乐在新加坡的起步</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"fall.html\" data-toolbar=\"-mbrBtnMove\">衰落时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"revival.html\" data-toolbar=\"-mbrBtnMove\">重生及稳定,增长时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">21世纪-适应新潮并进一步发展</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">实地考察</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">发展前景</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"timeline.html\" data-toolbar=\"-mbrBtnMove\">时间线</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">关于我们</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">参考资料与致谢</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">主页</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-0\" data-toolbar=\"-mbrBtnMove\">简介与研究脉络</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box8-f\" data-toolbar=\"-mbrBtnMove\">研究方法与目的</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"start.html\" data-toolbar=\"-mbrBtnMove\">华乐在新加坡的起步</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"fall.html\" data-toolbar=\"-mbrBtnMove\">衰落时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"revival.html\" data-toolbar=\"-mbrBtnMove\">重生及稳定,增长时期</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">21世纪-适应新潮并进一步发展</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"observations.html\" data-toolbar=\"-mbrBtnMove\">实地考察</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">发展前景</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"timeline.html\" data-toolbar=\"-mbrBtnMove\">时间线</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">关于我们</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">参考资料与致谢</a> "
         },
         {
           "_name": "header1",
@@ -408,7 +408,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"start.html#msg-box3-1u\" data-toolbar=\"-mbrBtnMove\">首几个华族音乐协会的创立<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"start.html#content1-m\" data-toolbar=\"-mbrBtnMove\">华乐在社会的地位和遇到的困难</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"start.html#msg-box3-1u\" data-toolbar=\"-mbrBtnMove\">首几个华族音乐协会的创立<br></a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"start.html#msg-box8-1w\" data-toolbar=\"-mbrBtnMove\">华乐在社会的地位和遇到的困难</a>",
           "_styles": {
             ".btn": {
               "font-size": "15px"
@@ -463,6 +463,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_tags": [
@@ -471,8 +474,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1w",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
@@ -487,35 +490,11 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "华乐当时在新加坡社会的地位和华乐遇到的困难",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "UL": {
-              "color": "#000000"
-            },
-            "H4": {
-              "font-size": "20px"
-            },
-            "DIV": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "content1-m",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<h4><span style=\"color: rgb(0, 0, 0); font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">正华乐在新加坡崛起的时候，第二世界大战大大地缓慢华乐在新加坡的发展，甚至还因为日本在新加坡的控制而使华乐在新加坡的发展退后一步。世界大战后，很多华乐团都尝试再次地重新组织起来，但由于战争对新加坡的毁灭，音乐家必须使用低素质的乐器来制作音乐。当时的音乐家在白天时都有自己的不同工作而不是专业的音乐家。他们会在有空的时候在这些音乐协会预约来一起玩音乐。当时，新加坡的民间华乐音乐家都遇到了一个大问题：乐器数量不够，质量不好。这是因为在第二世界大战后新加坡只剩了一名制琴家，根本无法在短时间内制作出好乐器给音乐家用。之后，在后半期的五十年代，音乐公司如德兴公司为了解决这个问题并且从中国大陆进口了华乐乐器提供给本地的音乐协会。</span><br></h4><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\">日本在第二世界大战投降后，英国也回来继续统治新加坡。但是，由于英国在大战时没有顾虑到本地人，让日本对本地人为所欲为的关系，当时在新加坡的华人都对英国殖民政府非常不满。因此为了反对英国殖民政府的统治和西洋化政策，许多在新加坡的华族商人都创办了许多华校来保存华式的教育系统。在这些华校里，老师们也都积极地向学生教学华族音乐和艺术文化来保存他们的传统华族文化。因此，由于英国殖民政府的西洋化政策，传统华族音乐在新加坡社会的地位与影响力也提高了。</font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\"><br></font></div><div><font color=\"#000000\"><br></font></div><p><br></p>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">更多</a>"
         }
       ]
     },
@@ -523,7 +502,7 @@
       "settings": {
         "title": "衰落时期",
         "meta_descr": "衰落时期",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -717,13 +696,16 @@
       "settings": {
         "title": "重生",
         "meta_descr": "重生",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_tags": [
@@ -1143,7 +1125,7 @@
       "settings": {
         "title": "陶融",
         "meta_descr": "陶融\n",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1369,7 +1351,7 @@
       "settings": {
         "title": "缺乏资源",
         "meta_descr": "缺乏资源",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1852,7 +1834,8 @@
     "timeline.html": {
       "settings": {
         "title": "时间线",
-        "meta_descr": "时间线"
+        "meta_descr": "时间线",
+        "order": 11
       },
       "components": [
         {
@@ -1964,6 +1947,471 @@
         {
           "_name": "footer1",
           "_anchor": "footer1-1x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        }
+      ]
+    },
+    "difficulties.html": {
+      "settings": {
+        "title": "面对困难",
+        "meta_descr": "面对困难\n",
+        "order": 4
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-21",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "华乐在社会的地位和遇到的困难",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"start.html\" data-toolbar=\"-mbrBtnMove\">起步阶段</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-22",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "正华乐在新加坡崛起的时候，第二世界大战大大地缓慢华乐在新加坡的发展，甚至可说是使华乐在新加坡的发展退后一步。世界大战后，很多华乐团都尝试再次地重新组织起来，但由于战争对新加坡的遭害，音乐家必须使用低素质的乐器来制作音乐。当时的音乐家在白天时都有自己的不同工作而不是专业的音乐家。<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "msg-box5-25",
+          "_params": {
+            "imageSize": "20",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lin-family-gathering-1400x1060.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "flag",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title": "面对的困难",
+          "text": "当时，民间华乐音乐家都遇到了一个大问题：乐器数量不够，质量不好。这是因为在第二世界大战后新加坡只剩了一名制琴家，根本无法在短时间内制作出好乐器给音乐家用。之后，在后半期的五十年代，音乐公司如德兴公司为了解决这个问题并且从中国大陆进口了华乐乐器提供给本地的音乐协会。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>日本在第二世界大战投降后，英国也回来继续统治新加坡。但是，由于英国在大战时没有顾虑到本地人，让日本对本地人为所欲为的关系，当时在新加坡的华人都对英国殖民政府非常不满。因此为了反对英国殖民政府的统治和西洋化政策，许多在新加坡的华族商人都创办了许多华校来保存华式的教育系统。在这些华校里，老师们也都积极地向学生教学华族音乐和艺术文化来保存他们的传统华族文化。因此，由于英国殖民政府的西洋化政策，传统华族音乐在新加坡社会的地位与影响力也提高了。</p>"
+        }
+      ]
+    },
+    "observations.html": {
+      "settings": {
+        "title": "实地考察",
+        "meta_descr": "实地考察",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-29",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "实地考察",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">主页</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-28",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sph-gift-of-music-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<font color=\"#000000\">华乐演出</font>",
+          "text": "我们到不同的演出，观察人民对华乐的支持度",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"concert.html\" data-toolbar=\"-mbrBtnMove\">更多</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-26",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Kester Low"
+        }
+      ]
+    },
+    "concert.html": {
+      "settings": {
+        "title": "演出",
+        "meta_descr": "演出",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "华乐演出",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"observations.html\" data-toolbar=\"-mbrBtnMove\">实地考察</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/20170610-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/20170610-1-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-06-10-at-19-2000x1500.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-2c",
+          "articleLayout": false
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2a",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
